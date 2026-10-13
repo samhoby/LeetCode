@@ -15,6 +15,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 20   | [Valid Parentheses][20]                                    | Easy       |
 | 58   | [Length of Last Word][58]                                  | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
+| 121  | [Best Time to Buy and Sell Stock][121]                     | Easy       |
 | 125  | [Valid Palindrome][125]                                    | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
@@ -25,7 +26,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ## To do
 
-- [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
 - [242. Valid Anagram][242]
 - [268. Missing Number][268]
@@ -38,6 +38,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [1. Two Sum][1]
 - [15. 3Sum][15]
+- [121. Best Time to Buy and Sell Stock][121]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 - [3727. Maximum Alternating Sum of Squares][3727]
@@ -51,6 +52,10 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [20. Valid Parentheses][20]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
+
+### Dynamic Programming
+
+- [121. Best Time to Buy and Sell Stock][121]
 
 ### Greedy
 
