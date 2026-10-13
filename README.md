@@ -20,6 +20,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
+| 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
 
 ## To do
 
@@ -39,6 +40,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [15. 3Sum][15]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
+- [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Binary Search
 
@@ -52,6 +54,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Greedy
 
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
+- [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Hash Table
 
@@ -84,6 +87,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [15. 3Sum][15]
 - [217. Contains Duplicate][217]
+- [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Stack
 
@@ -121,3 +125,4 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [367]: problems/0367.md
 [412]: problems/0412.md
 [1541]: problems/1541.md
+[3727]: problems/3727.md
