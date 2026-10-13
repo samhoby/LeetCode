@@ -12,6 +12,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 9    | [Palindrome Number][9]                                     | Easy       |
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
+| 20   | [Valid Parentheses][20]                                    | Easy       |
 | 58   | [Length of Last Word][58]                                  | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
 | 125  | [Valid Palindrome][125]                                    | Easy       |
@@ -24,7 +25,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ## To do
 
-- [20. Valid Parentheses][20]
 - [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
 - [242. Valid Anagram][242]
@@ -49,6 +49,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ### Bracket Sequences
 
+- [20. Valid Parentheses][20]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
 ### Greedy
@@ -91,11 +92,13 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ### Stack
 
+- [20. Valid Parentheses][20]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
 ### String
 
 - [13. Roman to Integer][13]
+- [20. Valid Parentheses][20]
 - [58. Length of Last Word][58]
 - [125. Valid Palindrome][125]
 - [412. FizzBuzz][412]
