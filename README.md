@@ -19,6 +19,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 125  | [Valid Palindrome][125]                                    | Easy       |
 | 136  | [Single Number][136]                                       | Easy       |
 | 137  | [Single Number II][137]                                    | Medium     |
+| 169  | [Majority Element][169]                                    | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
 | 260  | [Single Number III][260]                                   | Medium     |
@@ -43,6 +44,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
 - [137. Single Number II][137]
+- [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 - [260. Single Number III][260]
@@ -59,10 +61,22 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [137. Single Number II][137]
 - [260. Single Number III][260]
 
+### Boyer-Moore Majority Vote
+
+- [169. Majority Element][169]
+
 ### Bracket Sequences
 
 - [20. Valid Parentheses][20]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
+
+### Counting
+
+- [169. Majority Element][169]
+
+### Divide and Conquer
+
+- [169. Majority Element][169]
 
 ### Dynamic Programming
 
@@ -77,6 +91,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [1. Two Sum][1]
 - [13. Roman to Integer][13]
+- [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 
@@ -111,6 +126,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Sorting
 
 - [15. 3Sum][15]
+- [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
@@ -148,6 +164,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [125]: problems/0125.md
 [136]: problems/0136.md
 [137]: problems/0137.md
+[169]: problems/0169.md
 [217]: problems/0217.md
 [219]: problems/0219.md
 [242]: problems/0242.md
