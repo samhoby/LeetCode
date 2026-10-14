@@ -80,6 +80,10 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 
+### Junior
+
+- [1. Two Sum][1]
+
 ### Math
 
 - [9. Palindrome Number][9]
@@ -91,6 +95,10 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Newton's Method
 
 - [69. Sqrt(x)][69]
+
+### Senior
+
+- [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Simulation
 
@@ -109,6 +117,10 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Stack
 
 - [20. Valid Parentheses][20]
+- [1541. Minimum Insertions to Balance a Parentheses String][1541]
+
+### Staff
+
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
 ### String
