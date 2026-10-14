@@ -24,6 +24,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 219  | [Contains Duplicate II][219]                               | Easy       |
 | 242  | [Valid Anagram][242]                                       | Easy       |
 | 260  | [Single Number III][260]                                   | Medium     |
+| 268  | [Missing Number][268]                                      | Easy       |
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
@@ -32,7 +33,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ## To do
 
-- [268. Missing Number][268]
 - [283. Move Zeroes][283]
 - [344. Reverse String][344]
 
@@ -49,11 +49,13 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 - [260. Single Number III][260]
+- [268. Missing Number][268]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Binary Search
 
 - [69. Sqrt(x)][69]
+- [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
 
 ### Bit Manipulation
@@ -61,6 +63,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [136. Single Number][136]
 - [137. Single Number II][137]
 - [260. Single Number III][260]
+- [268. Missing Number][268]
 
 ### Boyer-Moore Majority Vote
 
@@ -97,6 +100,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 - [242. Valid Anagram][242]
+- [268. Missing Number][268]
 
 ### Junior
 
@@ -107,6 +111,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [9. Palindrome Number][9]
 - [13. Roman to Integer][13]
 - [69. Sqrt(x)][69]
+- [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
 - [412. FizzBuzz][412]
 - [3723. Maximize Sum of Squares of Digits][3723]
@@ -133,6 +138,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [242. Valid Anagram][242]
+- [268. Missing Number][268]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Stack
