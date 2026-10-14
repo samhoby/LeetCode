@@ -26,6 +26,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
+| 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
 
 ## To do
@@ -85,6 +86,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Greedy
 
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
+- [3723. Maximize Sum of Squares of Digits][3723]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Hash Table
@@ -106,6 +108,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [69. Sqrt(x)][69]
 - [367. Valid Perfect Square][367]
 - [412. FizzBuzz][412]
+- [3723. Maximize Sum of Squares of Digits][3723]
 
 ### Newton's Method
 
@@ -138,6 +141,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Staff
 
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
+- [3723. Maximize Sum of Squares of Digits][3723]
 
 ### String
 
@@ -175,4 +179,5 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [367]: problems/0367.md
 [412]: problems/0412.md
 [1541]: problems/1541.md
+[3723]: problems/3723.md
 [3727]: problems/3727.md
