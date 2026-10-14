@@ -22,6 +22,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 169  | [Majority Element][169]                                    | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
+| 242  | [Valid Anagram][242]                                       | Easy       |
 | 260  | [Single Number III][260]                                   | Medium     |
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
@@ -31,7 +32,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ## To do
 
-- [242. Valid Anagram][242]
 - [268. Missing Number][268]
 - [283. Move Zeroes][283]
 - [344. Reverse String][344]
@@ -96,6 +96,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
+- [242. Valid Anagram][242]
 
 ### Junior
 
@@ -131,6 +132,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [15. 3Sum][15]
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
+- [242. Valid Anagram][242]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Stack
@@ -149,6 +151,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [20. Valid Parentheses][20]
 - [58. Length of Last Word][58]
 - [125. Valid Palindrome][125]
+- [242. Valid Anagram][242]
 - [412. FizzBuzz][412]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
