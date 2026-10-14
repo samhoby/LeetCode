@@ -25,6 +25,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 242  | [Valid Anagram][242]                                       | Easy       |
 | 260  | [Single Number III][260]                                   | Medium     |
 | 268  | [Missing Number][268]                                      | Easy       |
+| 283  | [Move Zeroes][283]                                         | Easy       |
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
@@ -33,7 +34,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ## To do
 
-- [283. Move Zeroes][283]
 - [344. Reverse String][344]
 
 ## By topic
@@ -50,6 +50,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [219. Contains Duplicate II][219]
 - [260. Single Number III][260]
 - [268. Missing Number][268]
+- [283. Move Zeroes][283]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Binary Search
@@ -165,6 +166,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [15. 3Sum][15]
 - [125. Valid Palindrome][125]
+- [283. Move Zeroes][283]
 
 [1]: problems/0001.md
 [9]: problems/0009.md
