@@ -31,6 +31,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1502 | [Can Make Arithmetic Progression From Sequence][1502]      | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
+| 2913 | [Subarrays Distinct Element Sum of Squares I][2913]        | Easy       |
 | 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
 
@@ -50,7 +51,12 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [268. Missing Number][268]
 - [283. Move Zeroes][283]
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
+- [2913. Subarrays Distinct Element Sum of Squares I][2913]
 - [3727. Maximum Alternating Sum of Squares][3727]
+
+### Binary Indexed Tree
+
+- [2913. Subarrays Distinct Element Sum of Squares I][2913]
 
 ### Binary Search
 
@@ -101,6 +107,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [219. Contains Duplicate II][219]
 - [242. Valid Anagram][242]
 - [268. Missing Number][268]
+- [2913. Subarrays Distinct Element Sum of Squares I][2913]
 
 ### Junior
 
@@ -119,10 +126,15 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Mid Level
 
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
+- [2913. Subarrays Distinct Element Sum of Squares I][2913]
 
 ### Newton's Method
 
 - [69. Sqrt(x)][69]
+
+### Segment Tree
+
+- [2913. Subarrays Distinct Element Sum of Squares I][2913]
 
 ### Senior
 
@@ -197,5 +209,6 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [412]: problems/0412.md
 [1502]: problems/1502.md
 [1541]: problems/1541.md
+[2913]: problems/2913.md
 [3723]: problems/3723.md
 [3727]: problems/3727.md
