@@ -29,6 +29,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 344  | [Reverse String][344]                                      | Easy       |
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
+| 1502 | [Can Make Arithmetic Progression From Sequence][1502]      | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
 | 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
@@ -48,6 +49,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [260. Single Number III][260]
 - [268. Missing Number][268]
 - [283. Move Zeroes][283]
+- [1502. Can Make Arithmetic Progression From Sequence][1502]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Binary Search
@@ -114,6 +116,10 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [412. FizzBuzz][412]
 - [3723. Maximize Sum of Squares of Digits][3723]
 
+### Mid Level
+
+- [1502. Can Make Arithmetic Progression From Sequence][1502]
+
 ### Newton's Method
 
 - [69. Sqrt(x)][69]
@@ -137,6 +143,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [217. Contains Duplicate][217]
 - [242. Valid Anagram][242]
 - [268. Missing Number][268]
+- [1502. Can Make Arithmetic Progression From Sequence][1502]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Stack
@@ -188,6 +195,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [344]: problems/0344.md
 [367]: problems/0367.md
 [412]: problems/0412.md
+[1502]: problems/1502.md
 [1541]: problems/1541.md
 [3723]: problems/3723.md
 [3727]: problems/3727.md
