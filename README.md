@@ -13,6 +13,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
 | 20   | [Valid Parentheses][20]                                    | Easy       |
+| 33   | [Search in Rotated Sorted Array][33]                       | Medium     |
 | 49   | [Group Anagrams][49]                                       | Medium     |
 | 58   | [Length of Last Word][58]                                  | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
@@ -43,6 +44,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 - [1. Two Sum][1]
 - [15. 3Sum][15]
+- [33. Search in Rotated Sorted Array][33]
 - [49. Group Anagrams][49]
 - [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
@@ -64,6 +66,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ### Binary Search
 
+- [33. Search in Rotated Sorted Array][33]
 - [69. Sqrt(x)][69]
 - [153. Find Minimum in Rotated Sorted Array][153]
 - [268. Missing Number][268]
@@ -199,6 +202,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [13]: problems/0013.md
 [15]: problems/0015.md
 [20]: problems/0020.md
+[33]: problems/0033.md
 [49]: problems/0049.md
 [58]: problems/0058.md
 [69]: problems/0069.md
