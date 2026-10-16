@@ -9,6 +9,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | #    | Problem                                                    | Difficulty |
 | ---- | ---------------------------------------------------------- | ---------- |
 | 1    | [Two Sum][1]                                               | Easy       |
+| 3    | [Longest Substring Without Repeating Characters][3]        | Medium     |
 | 9    | [Palindrome Number][9]                                     | Easy       |
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
@@ -109,6 +110,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Hash Table
 
 - [1. Two Sum][1]
+- [3. Longest Substring Without Repeating Characters][3]
 - [13. Roman to Integer][13]
 - [49. Group Anagrams][49]
 - [169. Majority Element][169]
@@ -155,6 +157,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ### Sliding Window
 
+- [3. Longest Substring Without Repeating Characters][3]
 - [219. Contains Duplicate II][219]
 
 ### Sorting
@@ -175,11 +178,13 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
 ### Staff
 
+- [3. Longest Substring Without Repeating Characters][3]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 - [3723. Maximize Sum of Squares of Digits][3723]
 
 ### String
 
+- [3. Longest Substring Without Repeating Characters][3]
 - [13. Roman to Integer][13]
 - [20. Valid Parentheses][20]
 - [49. Group Anagrams][49]
@@ -198,6 +203,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [344. Reverse String][344]
 
 [1]: problems/0001.md
+[3]: problems/0003.md
 [9]: problems/0009.md
 [13]: problems/0013.md
 [15]: problems/0015.md
