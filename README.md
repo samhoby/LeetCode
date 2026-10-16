@@ -20,6 +20,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 125  | [Valid Palindrome][125]                                    | Easy       |
 | 136  | [Single Number][136]                                       | Easy       |
 | 137  | [Single Number II][137]                                    | Medium     |
+| 153  | [Find Minimum in Rotated Sorted Array][153]                | Medium     |
 | 169  | [Majority Element][169]                                    | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
@@ -46,6 +47,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
 - [137. Single Number II][137]
+- [153. Find Minimum in Rotated Sorted Array][153]
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
@@ -63,6 +65,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Binary Search
 
 - [69. Sqrt(x)][69]
+- [153. Find Minimum in Rotated Sorted Array][153]
 - [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
 
@@ -203,6 +206,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [125]: problems/0125.md
 [136]: problems/0136.md
 [137]: problems/0137.md
+[153]: problems/0153.md
 [169]: problems/0169.md
 [217]: problems/0217.md
 [219]: problems/0219.md
