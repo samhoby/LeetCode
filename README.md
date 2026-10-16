@@ -4,6 +4,8 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, each with notes on the
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
+Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
+
 ## Problems
 
 | #    | Problem                                                    | Difficulty |
@@ -32,6 +34,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 | 283  | [Move Zeroes][283]                                         | Easy       |
 | 344  | [Reverse String][344]                                      | Easy       |
 | 367  | [Valid Perfect Square][367]                                | Easy       |
+| 392  | [Is Subsequence][392]                                      | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
 | 1502 | [Can Make Arithmetic Progression From Sequence][1502]      | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
@@ -100,6 +103,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Dynamic Programming
 
 - [121. Best Time to Buy and Sell Stock][121]
+- [392. Is Subsequence][392]
 
 ### Greedy
 
@@ -123,6 +127,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 ### Junior
 
 - [1. Two Sum][1]
+- [392. Is Subsequence][392]
 
 ### Math
 
@@ -192,6 +197,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [125. Valid Palindrome][125]
 - [242. Valid Anagram][242]
 - [344. Reverse String][344]
+- [392. Is Subsequence][392]
 - [412. FizzBuzz][412]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
@@ -201,6 +207,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 - [125. Valid Palindrome][125]
 - [283. Move Zeroes][283]
 - [344. Reverse String][344]
+- [392. Is Subsequence][392]
 
 [1]: problems/0001.md
 [3]: problems/0003.md
@@ -226,6 +233,7 @@ Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 [283]: problems/0283.md
 [344]: problems/0344.md
 [367]: problems/0367.md
+[392]: problems/0392.md
 [412]: problems/0412.md
 [1502]: problems/1502.md
 [1541]: problems/1541.md
