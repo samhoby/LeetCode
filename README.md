@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, each with notes on the
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
+Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 
 ## Problems
 
@@ -18,6 +18,7 @@ Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
 | 20   | [Valid Parentheses][20]                                    | Easy       |
 | 33   | [Search in Rotated Sorted Array][33]                       | Medium     |
 | 49   | [Group Anagrams][49]                                       | Medium     |
+| 56   | [Merge Intervals][56]                                      | Medium     |
 | 58   | [Length of Last Word][58]                                  | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
 | 121  | [Best Time to Buy and Sell Stock][121]                     | Easy       |
@@ -50,6 +51,7 @@ Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
 - [15. 3Sum][15]
 - [33. Search in Rotated Sorted Array][33]
 - [49. Group Anagrams][49]
+- [56. Merge Intervals][56]
 - [121. Best Time to Buy and Sell Stock][121]
 - [136. Single Number][136]
 - [137. Single Number II][137]
@@ -148,6 +150,10 @@ Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
 
 - [69. Sqrt(x)][69]
 
+### Quicksort
+
+- [56. Merge Intervals][56]
+
 ### Segment Tree
 
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
@@ -169,6 +175,7 @@ Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
 
 - [15. 3Sum][15]
 - [49. Group Anagrams][49]
+- [56. Merge Intervals][56]
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [242. Valid Anagram][242]
@@ -217,6 +224,7 @@ Solved: 31 of 4,082 problems on LeetCode (as of 2026-10-16).
 [20]: problems/0020.md
 [33]: problems/0033.md
 [49]: problems/0049.md
+[56]: problems/0056.md
 [58]: problems/0058.md
 [69]: problems/0069.md
 [121]: problems/0121.md
