@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, each with notes on the
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
+Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 
 ## Problems
 
@@ -12,21 +12,30 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 | ---- | ---------------------------------------------------------- | ---------- |
 | 1    | [Two Sum][1]                                               | Easy       |
 | 3    | [Longest Substring Without Repeating Characters][3]        | Medium     |
+| 7    | [Reverse Integer][7]                                       | Medium     |
 | 9    | [Palindrome Number][9]                                     | Easy       |
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
 | 20   | [Valid Parentheses][20]                                    | Easy       |
+| 26   | [Remove Duplicates from Sorted Array][26]                  | Easy       |
+| 27   | [Remove Element][27]                                       | Easy       |
+| 28   | [Find the Index of the First Occurrence in a String][28]   | Easy       |
 | 33   | [Search in Rotated Sorted Array][33]                       | Medium     |
 | 49   | [Group Anagrams][49]                                       | Medium     |
 | 56   | [Merge Intervals][56]                                      | Medium     |
 | 58   | [Length of Last Word][58]                                  | Easy       |
+| 66   | [Plus One][66]                                             | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
+| 74   | [Search a 2D Matrix][74]                                   | Medium     |
 | 121  | [Best Time to Buy and Sell Stock][121]                     | Easy       |
 | 125  | [Valid Palindrome][125]                                    | Easy       |
+| 135  | [Candy][135]                                               | Hard       |
 | 136  | [Single Number][136]                                       | Easy       |
 | 137  | [Single Number II][137]                                    | Medium     |
 | 153  | [Find Minimum in Rotated Sorted Array][153]                | Medium     |
+| 167  | [Two Sum II - Input Array Is Sorted][167]                  | Medium     |
 | 169  | [Majority Element][169]                                    | Easy       |
+| 190  | [Reverse Bits][190]                                        | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
 | 242  | [Valid Anagram][242]                                       | Easy       |
@@ -37,11 +46,16 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 | 367  | [Valid Perfect Square][367]                                | Easy       |
 | 392  | [Is Subsequence][392]                                      | Easy       |
 | 412  | [FizzBuzz][412]                                            | Easy       |
+| 517  | [Super Washing Machines][517]                              | Hard       |
 | 1502 | [Can Make Arithmetic Progression From Sequence][1502]      | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
 | 2913 | [Subarrays Distinct Element Sum of Squares I][2913]        | Easy       |
 | 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
+
+## To do
+
+- [67. Add Binary][67]
 
 ## By topic
 
@@ -49,19 +63,26 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 
 - [1. Two Sum][1]
 - [15. 3Sum][15]
+- [26. Remove Duplicates from Sorted Array][26]
+- [27. Remove Element][27]
 - [33. Search in Rotated Sorted Array][33]
 - [49. Group Anagrams][49]
 - [56. Merge Intervals][56]
+- [66. Plus One][66]
+- [74. Search a 2D Matrix][74]
 - [121. Best Time to Buy and Sell Stock][121]
+- [135. Candy][135]
 - [136. Single Number][136]
 - [137. Single Number II][137]
 - [153. Find Minimum in Rotated Sorted Array][153]
+- [167. Two Sum II - Input Array Is Sorted][167]
 - [169. Majority Element][169]
 - [217. Contains Duplicate][217]
 - [219. Contains Duplicate II][219]
 - [260. Single Number III][260]
 - [268. Missing Number][268]
 - [283. Move Zeroes][283]
+- [517. Super Washing Machines][517]
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
 - [3727. Maximum Alternating Sum of Squares][3727]
@@ -74,7 +95,9 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 
 - [33. Search in Rotated Sorted Array][33]
 - [69. Sqrt(x)][69]
+- [74. Search a 2D Matrix][74]
 - [153. Find Minimum in Rotated Sorted Array][153]
+- [167. Two Sum II - Input Array Is Sorted][167]
 - [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
 
@@ -82,12 +105,17 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 
 - [136. Single Number][136]
 - [137. Single Number II][137]
+- [190. Reverse Bits][190]
 - [260. Single Number III][260]
 - [268. Missing Number][268]
 
 ### Boyer-Moore Majority Vote
 
 - [169. Majority Element][169]
+
+### Boyer-Moore String-Search Algorithm
+
+- [28. Find the Index of the First Occurrence in a String][28]
 
 ### Bracket Sequences
 
@@ -101,6 +129,7 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 ### Divide and Conquer
 
 - [169. Majority Element][169]
+- [190. Reverse Bits][190]
 
 ### Dynamic Programming
 
@@ -109,6 +138,8 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 
 ### Greedy
 
+- [135. Candy][135]
+- [517. Super Washing Machines][517]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 - [3723. Maximize Sum of Squares of Digits][3723]
 - [3727. Maximum Alternating Sum of Squares][3727]
@@ -131,15 +162,25 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 - [1. Two Sum][1]
 - [392. Is Subsequence][392]
 
+### Knuth-Morris-Pratt Algorithm
+
+- [28. Find the Index of the First Occurrence in a String][28]
+
 ### Math
 
+- [7. Reverse Integer][7]
 - [9. Palindrome Number][9]
 - [13. Roman to Integer][13]
+- [66. Plus One][66]
 - [69. Sqrt(x)][69]
 - [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
 - [412. FizzBuzz][412]
 - [3723. Maximize Sum of Squares of Digits][3723]
+
+### Matrix
+
+- [74. Search a 2D Matrix][74]
 
 ### Mid Level
 
@@ -149,6 +190,10 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 ### Newton's Method
 
 - [69. Sqrt(x)][69]
+
+### Principal
+
+- [517. Super Washing Machines][517]
 
 ### Quicksort
 
@@ -199,6 +244,7 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 - [3. Longest Substring Without Repeating Characters][3]
 - [13. Roman to Integer][13]
 - [20. Valid Parentheses][20]
+- [28. Find the Index of the First Occurrence in a String][28]
 - [49. Group Anagrams][49]
 - [58. Length of Last Word][58]
 - [125. Valid Palindrome][125]
@@ -208,31 +254,53 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 - [412. FizzBuzz][412]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
+### String Matching
+
+- [28. Find the Index of the First Occurrence in a String][28]
+
 ### Two Pointers
 
 - [15. 3Sum][15]
+- [26. Remove Duplicates from Sorted Array][26]
+- [27. Remove Element][27]
+- [28. Find the Index of the First Occurrence in a String][28]
 - [125. Valid Palindrome][125]
+- [167. Two Sum II - Input Array Is Sorted][167]
 - [283. Move Zeroes][283]
 - [344. Reverse String][344]
 - [392. Is Subsequence][392]
 
+### Z Algorithm
+
+- [28. Find the Index of the First Occurrence in a String][28]
+
 [1]: problems/0001.md
 [3]: problems/0003.md
+[7]: problems/0007.md
 [9]: problems/0009.md
 [13]: problems/0013.md
 [15]: problems/0015.md
 [20]: problems/0020.md
+[26]: problems/0026.md
+[27]: problems/0027.md
+[28]: problems/0028.md
 [33]: problems/0033.md
 [49]: problems/0049.md
 [56]: problems/0056.md
 [58]: problems/0058.md
+[66]: problems/0066.md
+[67]: problems/0067.md
 [69]: problems/0069.md
+[74]: problems/0074.md
 [121]: problems/0121.md
 [125]: problems/0125.md
+[135]: problems/0135.md
 [136]: problems/0136.md
 [137]: problems/0137.md
 [153]: problems/0153.md
+[167]: problems/0167.md
 [169]: problems/0169.md
+[190]: problems/0190.md
 [217]: problems/0217.md
 [219]: problems/0219.md
 [242]: problems/0242.md
@@ -243,6 +311,7 @@ Solved: 32 of 4,082 problems on LeetCode (as of 2026-10-17).
 [367]: problems/0367.md
 [392]: problems/0392.md
 [412]: problems/0412.md
+[517]: problems/0517.md
 [1502]: problems/1502.md
 [1541]: problems/1541.md
 [2913]: problems/2913.md
