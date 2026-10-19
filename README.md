@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, each with notes on the
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
+Solved: 44 of 4,086 problems on LeetCode (as of 2026-10-19).
 
 ## Problems
 
@@ -25,6 +25,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 | 56   | [Merge Intervals][56]                                      | Medium     |
 | 58   | [Length of Last Word][58]                                  | Easy       |
 | 66   | [Plus One][66]                                             | Easy       |
+| 67   | [Add Binary][67]                                           | Easy       |
 | 69   | [Sqrt(x)][69]                                              | Easy       |
 | 74   | [Search a 2D Matrix][74]                                   | Medium     |
 | 121  | [Best Time to Buy and Sell Stock][121]                     | Easy       |
@@ -49,13 +50,10 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 | 517  | [Super Washing Machines][517]                              | Hard       |
 | 1502 | [Can Make Arithmetic Progression From Sequence][1502]      | Easy       |
 | 1541 | [Minimum Insertions to Balance a Parentheses String][1541] | Medium     |
+| 2089 | [Find Target Indices After Sorting Array][2089]            | Easy       |
 | 2913 | [Subarrays Distinct Element Sum of Squares I][2913]        | Easy       |
 | 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
-
-## To do
-
-- [67. Add Binary][67]
 
 ## By topic
 
@@ -84,6 +82,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 - [283. Move Zeroes][283]
 - [517. Super Washing Machines][517]
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
+- [2089. Find Target Indices After Sorting Array][2089]
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
@@ -100,9 +99,11 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 - [167. Two Sum II - Input Array Is Sorted][167]
 - [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
+- [2089. Find Target Indices After Sorting Array][2089]
 
 ### Bit Manipulation
 
+- [67. Add Binary][67]
 - [136. Single Number][136]
 - [137. Single Number II][137]
 - [190. Reverse Bits][190]
@@ -172,6 +173,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 - [9. Palindrome Number][9]
 - [13. Roman to Integer][13]
 - [66. Plus One][66]
+- [67. Add Binary][67]
 - [69. Sqrt(x)][69]
 - [268. Missing Number][268]
 - [367. Valid Perfect Square][367]
@@ -185,6 +187,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 ### Mid Level
 
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
+- [2089. Find Target Indices After Sorting Array][2089]
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
 
 ### Newton's Method
@@ -209,6 +212,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 
 ### Simulation
 
+- [67. Add Binary][67]
 - [412. FizzBuzz][412]
 
 ### Sliding Window
@@ -226,6 +230,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 - [242. Valid Anagram][242]
 - [268. Missing Number][268]
 - [1502. Can Make Arithmetic Progression From Sequence][1502]
+- [2089. Find Target Indices After Sorting Array][2089]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
 ### Stack
@@ -247,6 +252,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 - [28. Find the Index of the First Occurrence in a String][28]
 - [49. Group Anagrams][49]
 - [58. Length of Last Word][58]
+- [67. Add Binary][67]
 - [125. Valid Palindrome][125]
 - [242. Valid Anagram][242]
 - [344. Reverse String][344]
@@ -314,6 +320,7 @@ Solved: 42 of 4,086 problems on LeetCode (as of 2026-10-18).
 [517]: problems/0517.md
 [1502]: problems/1502.md
 [1541]: problems/1541.md
+[2089]: problems/2089.md
 [2913]: problems/2913.md
 [3723]: problems/3723.md
 [3727]: problems/3727.md
