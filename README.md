@@ -60,6 +60,24 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 | 3723 | [Maximize Sum of Squares of Digits][3723]                  | Medium     |
 | 3727 | [Maximum Alternating Sum of Squares][3727]                 | Medium     |
 
+## To do
+
+- [22. Generate Parentheses][22]
+- [182. Duplicate Emails][182]
+- [183. Customers Who Never Order][183]
+- [184. Department Highest Salary][184]
+- [185. Department Top Three Salaries][185]
+- [196. Delete Duplicate Emails][196]
+- [197. Rising Temperature][197]
+- [262. Trips and Users][262]
+- [570. Managers with at Least 5 Direct Reports][570]
+- [577. Employee Bonus][577]
+- [771. Jewels and Stones][771]
+- [1046. Last Stone Weight][1046]
+- [1581. Customer Who Visited but Did Not Make Any Transactions][1581]
+- [1584. Min Cost to Connect All Points][1584]
+- [1934. Confirmation Rate][1934]
+
 ## By topic
 
 ### Array
@@ -300,6 +318,7 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 [13]: problems/0013.md
 [15]: problems/0015.md
 [20]: problems/0020.md
+[22]: problems/0022.md
 [26]: problems/0026.md
 [27]: problems/0027.md
 [28]: problems/0028.md
@@ -324,11 +343,18 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 [178]: problems/0178.md
 [180]: problems/0180.md
 [181]: problems/0181.md
+[182]: problems/0182.md
+[183]: problems/0183.md
+[184]: problems/0184.md
+[185]: problems/0185.md
 [190]: problems/0190.md
+[196]: problems/0196.md
+[197]: problems/0197.md
 [217]: problems/0217.md
 [219]: problems/0219.md
 [242]: problems/0242.md
 [260]: problems/0260.md
+[262]: problems/0262.md
 [268]: problems/0268.md
 [283]: problems/0283.md
 [344]: problems/0344.md
@@ -336,8 +362,15 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 [392]: problems/0392.md
 [412]: problems/0412.md
 [517]: problems/0517.md
+[570]: problems/0570.md
+[577]: problems/0577.md
+[771]: problems/0771.md
+[1046]: problems/1046.md
 [1502]: problems/1502.md
 [1541]: problems/1541.md
+[1581]: problems/1581.md
+[1584]: problems/1584.md
+[1934]: problems/1934.md
 [2089]: problems/2089.md
 [2913]: problems/2913.md
 [3723]: problems/3723.md
