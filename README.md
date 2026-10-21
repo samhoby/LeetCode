@@ -1,10 +1,10 @@
 # LeetCode
 
-My [LeetCode](https://leetcode.com/) solutions in Kotlin, each with notes on the key idea, pattern and complexity.
+My [LeetCode](https://leetcode.com/) solutions in Kotlin, Python3 and PostgreSQL, each with notes on the key idea, pattern and complexity. The notes are in `problems/`, and the code is in `problems/kotlin/`, `problems/python3/` and `problems/postgresql/`.
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 44 of 4,086 problems on LeetCode (as of 2026-10-19).
+Solved: 45 of 4,086 problems on LeetCode (as of 2026-10-19).
 
 ## Problems
 
@@ -36,6 +36,7 @@ Solved: 44 of 4,086 problems on LeetCode (as of 2026-10-19).
 | 153  | [Find Minimum in Rotated Sorted Array][153]                | Medium     |
 | 167  | [Two Sum II - Input Array Is Sorted][167]                  | Medium     |
 | 169  | [Majority Element][169]                                    | Easy       |
+| 175  | [Combine Two Tables][175]                                  | Easy       |
 | 190  | [Reverse Bits][190]                                        | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
 | 219  | [Contains Duplicate II][219]                               | Easy       |
@@ -126,6 +127,10 @@ Solved: 44 of 4,086 problems on LeetCode (as of 2026-10-19).
 ### Counting
 
 - [169. Majority Element][169]
+
+### Database
+
+- [175. Combine Two Tables][175]
 
 ### Divide and Conquer
 
@@ -306,6 +311,7 @@ Solved: 44 of 4,086 problems on LeetCode (as of 2026-10-19).
 [153]: problems/0153.md
 [167]: problems/0167.md
 [169]: problems/0169.md
+[175]: problems/0175.md
 [190]: problems/0190.md
 [217]: problems/0217.md
 [219]: problems/0219.md
