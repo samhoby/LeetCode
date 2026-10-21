@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, Python3 and PostgreSQL
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 46 of 4,087 problems on LeetCode (as of 2026-10-21).
+Solved: 47 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 ## Problems
 
@@ -37,6 +37,7 @@ Solved: 46 of 4,087 problems on LeetCode (as of 2026-10-21).
 | 167  | [Two Sum II - Input Array Is Sorted][167]                  | Medium     |
 | 169  | [Majority Element][169]                                    | Easy       |
 | 175  | [Combine Two Tables][175]                                  | Easy       |
+| 176  | [Second Highest Salary][176]                               | Medium     |
 | 181  | [Employees Earning More Than Their Managers][181]          | Easy       |
 | 190  | [Reverse Bits][190]                                        | Easy       |
 | 217  | [Contains Duplicate][217]                                  | Easy       |
@@ -132,6 +133,7 @@ Solved: 46 of 4,087 problems on LeetCode (as of 2026-10-21).
 ### Database
 
 - [175. Combine Two Tables][175]
+- [176. Second Highest Salary][176]
 - [181. Employees Earning More Than Their Managers][181]
 
 ### Divide and Conquer
@@ -314,6 +316,7 @@ Solved: 46 of 4,087 problems on LeetCode (as of 2026-10-21).
 [167]: problems/0167.md
 [169]: problems/0169.md
 [175]: problems/0175.md
+[176]: problems/0176.md
 [181]: problems/0181.md
 [190]: problems/0190.md
 [217]: problems/0217.md
