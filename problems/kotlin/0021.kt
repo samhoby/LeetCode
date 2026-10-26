@@ -10,23 +10,24 @@
 class Solution {
     fun mergeTwoLists(list1: ListNode?, list2: ListNode?): ListNode? {
         val dummy = ListNode(-1)
-        var list1Var = list1
-        var list2Var = list2
         var curr = dummy
 
-        while (list1Var != null && list2Var != null) {
-            if (list1Var.`val` < list2Var.`val`) {
-                curr.next = list1Var
-                list1Var = list1Var.next
+        var node1 = list1
+        var node2 = list2
+        
+        while (node1 != null && node2 != null) {
+            if (node1.`val` < node2.`val`) {
+                curr.next = node1
+                node1 = node1.next
                 curr = curr.next
             } else {
-                curr.next = list2Var
-                list2Var = list2Var.next
+                curr.next = node2
+                node2 = node2.next
                 curr = curr.next
             }
         }
 
-        curr.next = if (list1Var != null) list1Var else list2Var
+        curr.next = if (node1 != null) node1 else node2
         return dummy.next
     }
 }
