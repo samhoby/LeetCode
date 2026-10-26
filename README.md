@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, Python3 and PostgreSQL
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
+Solved: 51 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 ## Problems
 
@@ -17,6 +17,7 @@ Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
 | 20   | [Valid Parentheses][20]                                    | Easy       |
+| 21   | [Merge Two Sorted Lists][21]                               | Easy       |
 | 22   | [Generate Parentheses][22]                                 | Medium     |
 | 26   | [Remove Duplicates from Sorted Array][26]                  | Easy       |
 | 27   | [Remove Element][27]                                       | Easy       |
@@ -204,6 +205,10 @@ Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 - [28. Find the Index of the First Occurrence in a String][28]
 
+### Linked List
+
+- [21. Merge Two Sorted Lists][21]
+
 ### Math
 
 - [7. Reverse Integer][7]
@@ -238,6 +243,10 @@ Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
 ### Quicksort
 
 - [56. Merge Intervals][56]
+
+### Recursion
+
+- [21. Merge Two Sorted Lists][21]
 
 ### Segment Tree
 
@@ -325,6 +334,7 @@ Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
 [13]: problems/0013.md
 [15]: problems/0015.md
 [20]: problems/0020.md
+[21]: problems/0021.md
 [22]: problems/0022.md
 [26]: problems/0026.md
 [27]: problems/0027.md
