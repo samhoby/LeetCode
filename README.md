@@ -4,7 +4,7 @@ My [LeetCode](https://leetcode.com/) solutions in Kotlin, Python3 and PostgreSQL
 
 Profile: [SamHoby](https://leetcode.com/u/SamHoby/)
 
-Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
+Solved: 50 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 ## Problems
 
@@ -17,6 +17,7 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 | 13   | [Roman to Integer][13]                                     | Easy       |
 | 15   | [3Sum][15]                                                 | Medium     |
 | 20   | [Valid Parentheses][20]                                    | Easy       |
+| 22   | [Generate Parentheses][22]                                 | Medium     |
 | 26   | [Remove Duplicates from Sorted Array][26]                  | Easy       |
 | 27   | [Remove Element][27]                                       | Easy       |
 | 28   | [Find the Index of the First Occurrence in a String][28]   | Easy       |
@@ -62,7 +63,6 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 ## To do
 
-- [22. Generate Parentheses][22]
 - [182. Duplicate Emails][182]
 - [183. Customers Who Never Order][183]
 - [184. Department Highest Salary][184]
@@ -109,6 +109,10 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
 - [3727. Maximum Alternating Sum of Squares][3727]
 
+### Backtracking
+
+- [22. Generate Parentheses][22]
+
 ### Binary Indexed Tree
 
 - [2913. Subarrays Distinct Element Sum of Squares I][2913]
@@ -144,6 +148,7 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 ### Bracket Sequences
 
 - [20. Valid Parentheses][20]
+- [22. Generate Parentheses][22]
 - [1541. Minimum Insertions to Balance a Parentheses String][1541]
 
 ### Counting
@@ -165,6 +170,7 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 
 ### Dynamic Programming
 
+- [22. Generate Parentheses][22]
 - [121. Best Time to Buy and Sell Stock][121]
 - [392. Is Subsequence][392]
 
@@ -280,6 +286,7 @@ Solved: 49 of 4,087 problems on LeetCode (as of 2026-10-21).
 - [3. Longest Substring Without Repeating Characters][3]
 - [13. Roman to Integer][13]
 - [20. Valid Parentheses][20]
+- [22. Generate Parentheses][22]
 - [28. Find the Index of the First Occurrence in a String][28]
 - [49. Group Anagrams][49]
 - [58. Length of Last Word][58]
